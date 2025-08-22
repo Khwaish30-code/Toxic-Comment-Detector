@@ -18,7 +18,7 @@ This project is implemented using Python and Gradio. It classifies text comments
 
 ## Requirements
 
-- Gradio  
-- Transformers (HuggingFace)  
+- re
+- sklearn 
 - TensorFlow   
 - Pandas, NumPy  
